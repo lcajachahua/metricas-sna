@@ -1,0 +1,16 @@
+inicio,fin,customer
+Online Feedback,Product Return,192
+Online Feedback,Web Chat,423
+Product Browsing,Online Feedback,400
+Product Browsing,Product Return,186
+Product Browsing,Purchase,299
+Product Browsing,Service Inquiry,184
+Product Browsing,Web Chat,1001
+Return Policy Inquiry,Online Feedback,114
+Return Policy Inquiry,Product Browsing,284
+Return Policy Inquiry,Product Return,51
+Return Policy Inquiry,Purchase,74
+Service Inquiry,Purchase,103
+Service Inquiry,Web Chat,173
+Web Chat,Product Return,177
+Web Chat,Purchase,341
